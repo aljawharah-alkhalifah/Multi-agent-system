@@ -2,7 +2,7 @@
 
 A multi-agent system for Munder Difflin, a paper supply company. It reads free-text customer requests, checks inventory, generates quotes with bulk discounts, and completes sales, all against a SQLite database.
 
-Built with [smolagents](https://github.com/huggingface/smolagents) and `gpt-4o-mini` for the Udacity Agentic AI project.
+Built with [smolagents](https://github.com/huggingface/smolagents) and `gpt-4o-mini` .
 
 ## Architecture
 
